@@ -18,4 +18,4 @@ Current Work
 ======
 I am a student under Professor Steven Johnston working in quantum computational simulations of condensed matter systems. My main interests lie in simulating models that have some sort of exponential scaling when simulated using classical methods, but have their exponential scaling alleviated when quantum computers are used.
 
-Examples of these systems include strongly correlated electron models which suffer from an exponential scaling in computation time (e.g. quantum Monte Carlo) or in memory resources required (e.g. exact diagonalization). 
+Examples of these systems include strongly correlated electron models which suffer from an exponential scaling in computation time (e.g. quantum Monte Carlo) or in memory resources required (e.g. exact diagonalization). Quantum computers allow ways around this exponential scaling, paving the way for simulations of large quantum systems.

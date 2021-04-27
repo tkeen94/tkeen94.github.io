@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Quantum-classical simulation of two-site dynamical mean-field theory on noisy quantum hardware"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt:
+date: 2020
+venue: 'Quantum Science and Technology'
+paperurl: 'https://doi.org/10.1088/2058-9565/ab7d4c'
+citation: 'Trevor Keen et al 2020 Quantum Sci. Technol. 5 035001'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Abstract: We report on a quantum–classical simulation of the single-band Hubbard model using two-site dynamical mean-field theory (DMFT). Our approach uses IBM’s superconducting qubit chip to compute the zero-temperature impurity Green’s function in the time domain and a classical computer to fit the measured Green’s functions and extract their frequency domain parameters. We find that the quantum circuit synthesis (Trotter) and hardware errors lead to incorrect frequency estimates, and subsequently to an inaccurate quasiparticle weight when calculated from the frequency derivative ofthe self-energy. These errors produce incorrect hybridization parameters that prevent the DMFT algorithm from converging to the correct self-consistent solution. To avoid this pitfall, we compute the quasiparticle weight by integrating the quasiparticle peaks in the spectral function. This method is much less sensitive to Trotter errors and allows the algorithm to converge to self-consistency for a half-filled Mott insulating system after applying quantum error mitigation techniques to the quantum simulation data.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1088/2058-9565/ab7d4c)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Trevor Keen et al 2020 Quantum Sci. Technol. 5 035001
