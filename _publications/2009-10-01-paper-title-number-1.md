@@ -3,7 +3,7 @@ title: "Quantum-classical simulation of two-site dynamical mean-field theory on 
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt:
-date: 2020
+date: 2020-01-10
 venue: 'Quantum Science and Technology'
 paperurl: 'https://doi.org/10.1088/2058-9565/ab7d4c'
 citation: 'Trevor Keen et al 2020 Quantum Sci. Technol. 5 035001'
