@@ -1,14 +1,14 @@
 ---
-title: "Electricity and Magnetism for Engineers"
+title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of Tennesse Knoxville, Department of Physics"
-date: Fall 2017/Spring 2018
-location: "Knoxville, TN, USA"
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-I taught the lab portion of this course to give students a hands on understanding of the fundamentals of electricity and magnetism. Gauss's law, Ampere's law, circuit elements and design.
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
